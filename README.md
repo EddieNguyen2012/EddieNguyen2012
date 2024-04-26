@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manh Tuong Nguyen</h1>
-<h3 align="center">Data Science is fun!!</h3>
+<h3 align="center">Junior Data Science Undergraduate at San Jose State University | Rolling with Machine Learning and Data Science</h3>
 
 - 🏫 I'm a junior Data Science undergraduate **San Jose State University**
 
