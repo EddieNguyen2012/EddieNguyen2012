@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for interns/full-time in **Data Science and Machine Learning**
 
-- 💬 Ask me about **Java, Python, Data Visualization or... soccer**
+- 💬 Ask me about **Data Science, Machine Learning or... soccer**
 
 - 📫 How to reach me **tuong62642@gmail.com**
 
