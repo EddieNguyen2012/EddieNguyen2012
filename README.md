@@ -3,17 +3,15 @@
 
 - 🏫 I'm a junior Data Science undergraduate **San Jose State University**
 
-- 🌱 I’m currently learning **MySQL, Flask, TensorFlow, Statistics**
+- 🌱 I’m experience with **Data Analyis** and **Machine Learning modelling**
 
 - 🧑‍🏫 I’m helping beginner programming students at **Peer Connections (SJSU)**
 
-- 🤝 I’m looking for interns/full-time in **Data Science and Machine Learning**
+- 🤝 I’m looking for a(n) intern/full-time/part-time job in **Data Science and Machine Learning**
 
 - 💬 Ask me about **Data Science, Machine Learning or... soccer**
 
 - 📫 How to reach me **tuong62642@gmail.com**
-
-- ⚡ Fun fact **I am a Manchester United fan from Vietnam 🇻🇳!!**
 
 
 <h3 align="left">Languages and Tools:</h3>
