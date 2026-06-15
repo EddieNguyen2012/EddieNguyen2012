@@ -1,18 +1,34 @@
-<h1 align="center">Hi 👋, I'm Manh Tuong Nguyen</h1>
-<h3 align="center">Creative, Team player, Listener</h3>
+<h1 align="center">Manh Tuong Nguyen (Eddie)</h1>
+<h3 align="center">ML/AI Engineer · Data Scientist · MS Statistics @ SJSU</h3>
 
-- 🏫 I'm a graduate Statistics at **San Jose State University**
+<p align="center">
+  <a href="https://linkedin.com/in/manh-tuong-nguyen">LinkedIn</a> •
+  <a href="mailto:tuong62642@gmail.com">Email</a>
+</p>
 
-- 🌱 I’m experienced with **Data Analysis**, **Machine Learning**, and **Python**
+---
 
-- I am interested in finding solutions for Engineering/Business/Oceanography problems.
+🏆 **3rd Place — VietSpark BIT 2026 RAG Competition**  
+Built an offline-first RAG assistant evaluated across 310 outputs with 
+>90% faithfulness using Gemma 3, Llama 3.1, and DeepSeek-R1.
 
-- 🧑‍🏫 I helped beginner programming students at **Peer Connections (SJSU)**
+🔬 **Data Scientist Intern @ IDX Exchange**  
+Led a 5-person team building an end-to-end ML pipeline on ~150K MLS 
+records — delivered a CEO-reviewed model with <1% pricing error.
 
-- I was a **Research Assistant** to develop the **iceberg** package for MITgcm oceanography model with Professor Mike Wood! 
+📊 **B.S. Data Science, Summa Cum Laude · GPA 3.92 | M.S. Statistics (in progress)**  
+San Jose State University
 
-- 🤝 I’m looking for a(n) intern/full-time/part-time job in **Data Analyst**
+---
 
-- 💬 Ask me about **Data Science, Machine Learning or... soccer**
+### 🛠 What I work with
+**Languages:** Python · R · SQL · Java  
+**ML/AI:** Scikit-learn · TensorFlow · ChromaDB · BM25 · LangChain  
+**Tools:** Docker · Git · Airflow · dbt · BigQuery · UNIX/Linux  
 
-- 📫 How to reach me **tuong62642@gmail.com** / LinkedIn: www.linkedin.com/in/manh-tuong-nguyen
+---
+
+🌊 Previously: Research Assistant at Moss Landing Marine Labs —
+built Python/Fortran workflows for MITgcm ocean modeling on HPC clusters.
+
+📬 Open to **ML/AI Engineer** and **Data Science** internships and entry-level roles.
